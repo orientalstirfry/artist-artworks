@@ -1,1 +1,1 @@
-# artist-artworks
+# artist-artworks-api
